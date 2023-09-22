@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+}
+
+.form {
+    display: inline-block;
+    text-align: left;
+}
+
+.input {
+    width: 100%;
+    padding: 8px;
+    margin: 4px 0;
+}
+
+.button {
+    background: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 10px,
+}
+
+.btn-grp {
+    display: flex;
+    justify-content: space-around;
+}
